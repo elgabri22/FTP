@@ -4,6 +4,8 @@ import java.net.SocketException;
 
 import org.apache.commons.net.ftp.*;
 
+import javax.swing.*;
+
 public class ClienteFTP1 {
     public static void main(String[] args) throws SocketException, IOException {
 
